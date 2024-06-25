@@ -1,4 +1,4 @@
-https://riyabhatta.github.io/Snake-Game/
+
 Objective: The player controls a snake that moves around the screen.
 Gameplay: The snake must eat dots or other objects to grow in length.
 Challenges: The player must avoid colliding with obstacles and the snake itself, which becomes harder as the snake grows1.
